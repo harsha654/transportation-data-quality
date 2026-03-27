@@ -1,6 +1,7 @@
 ## OBJECTIVE
 *To proactively monitor, alert, and report the integrity of critical data assets, ensuring a "single source of truth" that increases organizational trust and shifts data management from reactive troubleshooting to proactive prevention.*
 
+## APPROACH
 Step 1: Baseline Data Discovery
 - Action: Perform Automated Data Profiling on all raw source entities.
 - Scope: Identify primary fact tables, dimension tables, and lookups.
