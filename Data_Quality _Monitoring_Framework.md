@@ -41,7 +41,7 @@ Step 6: Governance Transparency & Metadata Association
 - Integration: Automatically link the Scorecard results to the technical assets in the catalog.
 - Goal: Ensure that when a business user discovers the data, they can see a "Trust Score" immediately. This democratizes data quality and prevents the use of "bad" data in downstream analytics.
 
-##Framework Mapping Table (Technical to Functional)
+## Framework Mapping Table (Technical to Functional)
 
 | Component | Functional Step | Universal Application |
 | ----------- | ----------- | ----------- |
